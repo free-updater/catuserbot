@@ -1,0 +1,12 @@
+#code by Free-updater 
+#here to help 
+
+# Python Bot script starts:
+import sys 
+import time 
+from random import randrange 
+from modules.youtube import YouTube 
+from modules import utils 
+
+class Bot:
+          # Bot to increase YouTube video views
